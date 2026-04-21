@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Michael!<br><br>🚀 Informatics student & developer from Indonesia  <br>💼 Software Engineer Intern @ CodingCollective  <br><br><br>🔭 Working on: Laravel + Flutter apps, PaulusConnect, REST API systems  <br>👯 Open to: Flutter apps, Laravel/Node.js projects, open source  <br>🤝 Need help with: System design, DevOps, AI integration  <br>🌱 Learning: Clean Architecture, CI/CD, AI systems  <br>💬 Ask me about: Flutter, Laravel API, FCM  <br>⚡ Fun fact: Real Vibe Coder<br><br><br>🛠️ Tech Stack<br>💻 Laravel, Node.js, Express | 📱 Flutter | 🗄️ MySQL | ☁️ Firebase, FCM | ⚙️ Git, CI/CD  
+👋 Hi there, I'm Michael!<br><br>🚀 Informatics student & developer from Indonesia  <br>💼 Software Engineer Intern @ CodingCollective  <br><br><br>🔭 Working on: Laravel, Flutter app, REST API systems  <br>👯 Open to: Flutter apps, Laravel/Node.js projects, open source  <br>🤝 Need help with: System design, DevOps, AI integration  <br>🌱 Learning: Clean Architecture, CI/CD, AI systems  <br>💬 Ask me about: Flutter, Laravel API, FCM  <br>⚡ Fun fact: Real Vibe Coder<br><br><br>🛠️ Tech Stack<br>💻 Laravel, Node.js, Express | 📱 Flutter | 🗄️ MySQL | ☁️ Firebase, FCM | ⚙️ Git, CI/CD  
 
 
 ## 🌐 Socials:
